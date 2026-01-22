@@ -1,4 +1,4 @@
-# Weather Alert Application
+# RAIN ALERT MAIL
 
 A C# console application that monitors weather data and sends email notifications based on specific conditions.
 
