@@ -1,0 +1,15 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# Environment files (Contains sensitive keys/secrets)
+.env
+
+# User-specific files
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio specific (Optional but recommended)
+.vs/
+*.suo
